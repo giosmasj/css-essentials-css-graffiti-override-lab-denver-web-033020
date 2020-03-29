@@ -2,7 +2,9 @@
 #wall .tag-1 {
   display: none;
 }
-#wall div#tag-2 {
+#wall #tag-2 {
   display: none;
 }
-#wall div#tag-3.slickly.wicked
+#wall div#tag-3.slick.wicked {
+  display: none;
+}
